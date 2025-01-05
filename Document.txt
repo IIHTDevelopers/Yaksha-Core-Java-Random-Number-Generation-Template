@@ -1,0 +1,39 @@
+Java Random Number Generation
+Project Overview
+This assessment focuses on evaluating participants' understanding and ability to generate random numbers in Java. They will use both the Math.random() method and the Random class to generate random numbers for different applications such as simulations, games, and statistical sampling.
+
+Learning Objectives
+After completing this assessment, participants will be able to:
+
+Generate random numbers using Math.random() and Random class methods.
+Apply random number generation in various contexts, such as simulations (e.g., coin toss).
+Work with different data types and ranges for random number generation.
+Assessment Tasks
+1. Random Number Generation
+Task 1: Generate a Random Decimal Number
+Generate a random decimal number between 0 and 1 using Math.random().
+
+Example: Generate a random number between 0 and 1.
+Task 2: Generate a Random Integer within a Range
+Generate a random integer within a given range using Random.nextInt().
+
+Example: Generate a random integer between 1 and 100.
+Task 3: Generate a Random Floating-Point Number
+Generate a random floating-point number between a given range using Random.nextDouble().
+
+Example: Generate a random floating-point number between 5.5 and 20.5.
+Task 4: Simulate a Coin Toss
+Use random number generation to simulate a coin toss, returning "Heads" or "Tails".
+
+Example: Generate a random number (0 or 1) and print "Heads" for 0 and "Tails" for 1.
+Task 5: Random Selection from an Array
+Select a random element from a given array of strings or numbers.
+
+Example: Given an array of colors, select a random color.
+Detailed Steps for Participants
+1. Random Number Generation
+Step 1: Use Math.random() to generate a random number between 0 and 1.
+Step 2: Use Random.nextInt() to generate an integer between a specified range.
+Step 3: Use Random.nextDouble() to generate a random floating-point number.
+Step 4: Simulate a coin toss by generating random numbers and interpreting them as "Heads" or "Tails".
+Step 5: Select a random element from an array by using random indices.
