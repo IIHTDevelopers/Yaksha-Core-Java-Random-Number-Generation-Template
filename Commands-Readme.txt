@@ -1,5 +1,5 @@
 * Command to run code:
-	mvn compile exec:java -Dexec.mainClass="com.yaksha.assignment.MathFunctionsAssignment"
+	mvn compile exec:java -Dexec.mainClass="com.yaksha.assignment.RandomNumberGenerationAssignment"
 
 * Mandatory: Run the following command before the final submission
 	mvn test
